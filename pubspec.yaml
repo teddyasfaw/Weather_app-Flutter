@@ -1,0 +1,71 @@
+name: weatherapp
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.1
+  recase: ^4.1.0
+  flutter_dotenv: ^5.0.2
+  bloc: ^8.1.0
+  get: ^4.6.6
+  weather: ^2.0.1
+  glassmorphism: ^3.0.0
+  intl: ^0.17.0
+  google_translator: ^1.0.0
+  translator: ^0.1.7
+  url_launcher: ^6.2.1
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1" # add this line
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "assets/icon.png" # specify the path to your icon here
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - '.env'
+    - assets/loading.gif
+    - assets/Addis Ababa.png
+    - assets/Stockholm.png
+    - assets/night.png
+    - assets/Tokyo.png
+    - assets/Cape Town.png
+    - assets/London.png
+    - assets/New York.png
+    - assets/Sydney.png
+    - assets/Lagos.png
+    - assets/Hawassa, ET.png
+    - assets/Gondar, ET.png
+    - assets/Mek'ele, ET.png
+    - assets/Jimma, ET.png
+    - assets/Moscow, RU.png
+    - assets/sky.png
+    - assets/logo.jpg
+    - assets/logo1.png
+    - assets/logo2.png
+    - assets/boaz.png
+    - assets/jermia bayisa.jpg
+    - assets/ISIYAK SOLOMON.jpg
+    - assets/Lemlem Alemayehu.jpg
+    - assets/Roba Weyuma.jpg
+    - assets/Lidya Kinfe.jpg
+    - assets/1.jpg
+    - assets/2.jpg
+    - assets/3.png
