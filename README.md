@@ -1,19 +1,8 @@
 # weatherapp
 
-A weather app using Cubit
+Our Weather App is a comprehensive tool designed to provide real-time weather updates and alerts. It’s not just an app, but a reliable companion that helps you plan your day with confidence. The app offers Real-Time Weather Updates, providing the latest weather information. It ensures that you’re always aware of the current weather conditions.Our Weather App also supports Amharic, making it accessible to a wider audience. This multi-language support ensures that more people can benefit from our services.
 
-## Getting Started
-
-In this project I am using two api to create this app
-
-- first api give me the lat and lan of a place by it's name
-- second api give me the weather data of the place from tha lat and lan
-
-So after getting the lat and lan from the fiest api I have to send the data to the second api and get the weather details.And then I display it in the UI.
-
-After clicking on the settings icon you can change the unit celsius to fahrenheit
-
-video expample:
+In conclusion, our Weather App is more than just a weather forecast tool. It’s a comprehensive platform that keeps you informed, safe, and prepared for any weather condition. It’s your personal weather assistant that speaks your language, including Amharic, and is always at your fingertips.
 
 
 
