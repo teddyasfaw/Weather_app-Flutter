@@ -9,8 +9,6 @@ In conclusion, our Weather App is more than just a weather forecast tool. It’s
 
 ![4](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/ffe49230-fd76-428a-8a54-6a09cdab50a0)
 ![5](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/3a63d7c6-d17b-4b00-9681-1be099448ef6)
-![6](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/07caf2ec-69b1-46a2-bdbf-a0feb398c463)
-![7](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/50200c7d-3507-4c52-9ece-376b9641d6c6)
 ![9](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/38a50db3-5f1a-4f0e-a7fb-aba0577d7f42)
 ![8](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/9568d115-bd4e-4151-8f20-8ad5381cbd03)
 ![10](https://github.com/teddyasfaw/Weather_app-Flutter/assets/150118893/9e4285cc-3586-4d18-8c9d-7fdd4b6fdea5)
