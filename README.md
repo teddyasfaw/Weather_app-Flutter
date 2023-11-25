@@ -15,5 +15,5 @@ After clicking on the settings icon you can change the unit celsius to fahrenhei
 
 video expample:
 
-![km_20230502-1_480p_6f_20230502_223919](https://user-images.githubusercontent.com/94185006/235736404-a95ae0cd-1d5f-44c4-87ed-9a78a8a3a8df.gif)
+
 
